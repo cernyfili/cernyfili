@@ -1,4 +1,3 @@
-[cernyfili@gmail.com](mailto:cernyfili@gmail.com)
 # PROJECTS
 ## Machine learning / Data Science
 - [Bachelor theasis - Neural network - Parametrization of time-varying 3D meshes](https://github.com/cernyfili/FAV_2425_BP_Neural_network-parametrization_time_3D_meshes)
