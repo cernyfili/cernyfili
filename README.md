@@ -1,4 +1,11 @@
-## Hi there 👋
+# PROJECTS
+## Machine learning / Data Science
+- [Bachelor theasis - Neural network - Parametrization of time-varying 3D meshes](https://github.com/cernyfili/FAV_2425_BP_Neural_network-parametrization_time_3D_meshes)
+- [Social data anlysis - small world](https://github.com/cernyfili/OTH_2425_SNA_Data_analysis-small_world/blob/main/main.py)
+- [Data preprocessing](https://github.com/cernyfili/CVUT_2526_PDD_1_Data_preprocessing)
+- [Data preprocessing](https://github.com/cernyfili/CVUT_2526_PDD_2_Data_preprocessing)
+## Others
+- 
 
 <!--
 **cernyfili/cernyfili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
