@@ -1,7 +1,7 @@
 # PROJECTS
 ## Machine learning / Data Science
 - [Bachelor theasis - Neural network - Parametrization of time-varying 3D meshes](https://github.com/cernyfili/FAV_2425_BP_Neural_network-parametrization_time_3D_meshes)
-- [Social data anlysis - small world](https://github.com/cernyfili/OTH_2425_SNA_Data_analysis-small_world/blob/main/main.py)
+- [Social data anlysis - small world](https://github.com/cernyfili/OTH_2425_SNA_Data_analysis-small_world)
 
 - [Data preprocessing - classifier training](https://github.com/cernyfili/CVUT_2526_PDD_2_Data_preprocessing)
 - [Data analysis - Mcdonald reviews](https://github.com/cernyfili/OTH_2425_FML_02_Data_analysis-Mcdonald_reviews)
