@@ -4,6 +4,7 @@
 - [Social data anlysis - small world](https://github.com/cernyfili/OTH_2425_SNA_Data_analysis-small_world/blob/main/main.py)
 - [Data preprocessing](https://github.com/cernyfili/CVUT_2526_PDD_1_Data_preprocessing)
 - [Data preprocessing](https://github.com/cernyfili/CVUT_2526_PDD_2_Data_preprocessing)
+- [Data analysis - Mcdonald reviews](https://github.com/cernyfili/OTH_2425_FML_02_Data_analysis-Mcdonald_reviews)
 ## Others
 - [Network multiplayer game](https://github.com/cernyfili/FAV_2324_UPS_Network_multplayer_game-cubes)
 - [LZW compression - hidden data in image](https://github.com/cernyfili/FAV_2324_PC_LSWCompression-Hide_Binary_Data_In_Img)
