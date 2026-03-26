@@ -5,18 +5,22 @@
 - [Data preprocessing](https://github.com/cernyfili/CVUT_2526_PDD_1_Data_preprocessing)
 - [Data preprocessing](https://github.com/cernyfili/CVUT_2526_PDD_2_Data_preprocessing)
 - [Data analysis - Mcdonald reviews](https://github.com/cernyfili/OTH_2425_FML_02_Data_analysis-Mcdonald_reviews)
+
 ## Others
 - [Network multiplayer game](https://github.com/cernyfili/FAV_2324_UPS_Network_multplayer_game-cubes)
 - [LZW compression - hidden data in image](https://github.com/cernyfili/FAV_2324_PC_LSWCompression-Hide_Binary_Data_In_Img)
 - [Equatoin parser, solver](https://github.com/cernyfili/FAV_2223_PC_EquationParserCalculator)
 - [File system - i-nodes](https://github.com/cernyfili/FAV_2324_ZOS_FileSystem-i-nodes)
 
+
 - [Multithread mine simulation](https://github.com/cernyfili/FAV_2324_PGS_u1-MultiThreadAppMineSimulation)
 - [Web app](https://github.com/cernyfili/FAV_2223_WEB_WebApp)
+
 
 - [Midi Visualizer](https://github.com/cernyfili/FAV_2122_UUR_MidiVisualizer)
 - [Graph Paths](https://github.com/cernyfili/CVUT_2526_PDD_2_Data_preprocessing)
 - [Gravity simulation](https://github.com/cernyfili/FAV_2122_UPG_GravitySimulation)
+
 
 - [XML statistics](https://github.com/cernyfili/FAV_2324_PGS_u02-XMLStatistics)
 <!--
