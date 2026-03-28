@@ -18,13 +18,13 @@
   - Server: Go, Client: Python 
 - [LZW compression - hidden data in image](https://github.com/cernyfili/FAV_2324_PC_LSWCompression-Hide_Binary_Data_In_Img)
   - C
+- [Multithread mine simulation](https://github.com/cernyfili/FAV_2324_PGS_u1-MultiThreadAppMineSimulation)
+  - Java
 - [Equatoin parser, solver](https://github.com/cernyfili/FAV_2223_PC_EquationParserCalculator)
   - C
 - [File system - i-nodes](https://github.com/cernyfili/FAV_2324_ZOS_FileSystem-i-nodes)
   - Go
 
-- [Multithread mine simulation](https://github.com/cernyfili/FAV_2324_PGS_u1-MultiThreadAppMineSimulation)
-  - Java
 - [Web app](https://github.com/cernyfili/FAV_2223_WEB_WebApp)
   - PHP
 
