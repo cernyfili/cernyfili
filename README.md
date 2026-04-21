@@ -15,7 +15,9 @@
 
 ## Others
 - [Network multiplayer game](https://github.com/cernyfili/FAV_2324_UPS_Network_multplayer_game-cubes)
-  - Server: Go, Client: Python 
+  - Server: Go, Client: Python
+- [Web app - Conference](https://github.com/cernyfili/FAV_2223_WEB_WebApp)
+  - PHP
 - [LZW compression - hidden data in image](https://github.com/cernyfili/FAV_2324_PC_LSWCompression-Hide_Binary_Data_In_Img)
   - C
 - [Multithread mine simulation](https://github.com/cernyfili/FAV_2324_PGS_u1-MultiThreadAppMineSimulation)
@@ -24,9 +26,6 @@
   - C
 - [File system - i-nodes](https://github.com/cernyfili/FAV_2324_ZOS_FileSystem-i-nodes)
   - Go
-
-- [Web app](https://github.com/cernyfili/FAV_2223_WEB_WebApp)
-  - PHP
 
 
 - [Midi Visualizer](https://github.com/cernyfili/FAV_2122_UUR_MidiVisualizer)
